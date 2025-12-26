@@ -1,0 +1,217 @@
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\bin\Debug\EmptyProject.exe.config
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\bin\Debug\EmptyProject.exe
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\bin\Debug\EmptyProject.pdb
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.AssemblyReference.cache
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Form1.resources
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Properties.Resources.resources
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.GenerateResource.cache
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.CoreCompileInputs.cache
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.exe
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.pdb
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.MainForm.resources
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.FeddbackForm.resources
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.CustomerForm.resources
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.OrderPizzaForm.resources
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.AddPizzaForm.resources
+C:\Users\ahmxd\OneDrive\Desktop\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.bill_Form.resources
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\bin\Debug\EmptyProject.exe.config
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\bin\Debug\EmptyProject.exe
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\bin\Debug\EmptyProject.pdb
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.AddPizzaForm.resources
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.bill_Form.resources
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.CustomerForm.resources
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.delete_Details.resources
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Form1.resources
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.MainForm.resources
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.OrderPizzaForm.resources
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.PaymentForm.resources
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Properties.Resources.resources
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.exe
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.pdb
+C:\Users\admin\Desktop\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.FeedbackForm.resources
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.AssemblyReference.cache
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.pdb
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\bin\Debug\EmptyProject.exe.config
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\bin\Debug\EmptyProject.exe
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.AddPizzaForm.resources
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.bill_Form.resources
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.CustomerForm.resources
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.delete_Details.resources
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.FeedbackForm.resources
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Form1.resources
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.MainForm.resources
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.OrderPizzaForm.resources
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.PaymentForm.resources
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Properties.Resources.resources
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.GenerateResource.cache
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.CoreCompileInputs.cache
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.exe
+C:\Users\umera\OneDrive\Desktop\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\bin\Debug\EmptyProject.pdb
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\bin\Debug\EmptyProject.exe.config
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\bin\Debug\EmptyProject.exe
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.AssemblyReference.cache
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.AddPizzaForm.resources
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.bill_Form.resources
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.CustomerForm.resources
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.delete_Details.resources
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.FeedbackForm.resources
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Form1.resources
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.MainForm.resources
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.OrderPizzaForm.resources
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.PaymentForm.resources
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Properties.Resources.resources
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.GenerateResource.cache
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.CoreCompileInputs.cache
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.exe
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.pdb
+D:\Project\Pizza Shop Management System Project Video\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\bin\Debug\EmptyProject.pdb
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.AssemblyReference.cache
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.exe
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.pdb
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\bin\Debug\EmptyProject.exe.config
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\bin\Debug\EmptyProject.exe
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\bin\Debug\EmptyProject.pdb
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.AddPizzaForm.resources
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.bill_Form.resources
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.CustomerForm.resources
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.delete_Details.resources
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.FeedbackForm.resources
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Form1.resources
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.MainForm.resources
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.OrderPizzaForm.resources
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.PaymentForm.resources
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Properties.Resources.resources
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.GenerateResource.cache
+C:\Users\umera\OneDrive\Desktop\EditedEmptyProject\EditedEmptyProject\EmptyProject\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.CoreCompileInputs.cache
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\bin\Debug\EmptyProject.exe.config
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\bin\Debug\EmptyProject.exe
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\bin\Debug\EmptyProject.pdb
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.AssemblyReference.cache
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.AddPizzaForm.resources
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.bill_Form.resources
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.CustomerForm.resources
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.delete_Details.resources
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.FeedbackForm.resources
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Form1.resources
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.MainForm.resources
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.OrderPizzaForm.resources
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.PaymentForm.resources
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Properties.Resources.resources
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.GenerateResource.cache
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.CoreCompileInputs.cache
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\obj\Debug\EmptyProject.exe
+C:\Users\umera\OneDrive\Desktop\23-NTU-CS-1070_23-NTU-CS-1078 _23-NTU-CS-1090\OOP + Database System Project\EmptyProject\EmptyProject\obj\Debug\EmptyProject.pdb
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\EmptyProject.exe.config
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\EmptyProject.exe
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\EmptyProject.pdb
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.exe.config
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.AddPizzaForm.resources
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.bill_Form.resources
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.CustomerForm.resources
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.delete_Details.resources
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.FeedbackForm.resources
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Form1.resources
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.MainForm.resources
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.OrderPizzaForm.resources
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.PaymentForm.resources
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Properties.Resources.resources
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.exe
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.pdb
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Azure.Core.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Azure.Identity.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Buffers.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.ClientModel.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Memory.Data.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Memory.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Text.Json.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Azure.Core.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Azure.Identity.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Buffers.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.ClientModel.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Memory.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Memory.Data.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Text.Json.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyPro.3F56ECD8.Up2Date
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\obj\Debug\EmptyProject.Application_Layer.AiAssist.resources
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\OpenAI.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\OpenAI.xml
+C:\Users\DELL\source\repos\EmptyProject\EmptyProject\bin\Debug\System.Net.ServerSentEvents.xml

@@ -1,0 +1,508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\aiassist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\aiassist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\aiassist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\aiassist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|c:\\users\\dell\\source\\repos\\emptyproject\\emptyproject\\database layer\\dclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\database layer\\dclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\addpizzaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\addpizzaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\addpizzaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\addpizzaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\orderpizzaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\orderpizzaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\orderpizzaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\orderpizzaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\bill form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\bill form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\bussiness layer\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\bussiness layer\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\bussiness layer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\bussiness layer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\bussiness layer\\pizza_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\bussiness layer\\pizza_details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\delete details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\delete details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\delete details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\delete details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\bussiness layer\\cardholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\bussiness layer\\cardholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\bussiness layer\\permanentcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\bussiness layer\\permanentcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\application layer\\bill form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\application layer\\bill form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\mydb9dataset6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\mydb9dataset6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\mydb9dataset6.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\mydb9dataset6.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\mydb9dataset6.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\mydb9dataset6.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|C:\\Users\\DELL\\source\\repos\\EmptyProject\\emptyproject\\mydb9dataset6.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{A7790C82-C50B-4331-92E7-E73A3403BB82}|EmptyProject\\EmptyProject.csproj|solutionrelative:emptyproject\\mydb9dataset6.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddPizzaForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\AddPizzaForm.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\AddPizzaForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\AddPizzaForm.cs",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\AddPizzaForm.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:17:57.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DClass.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Database Layer\\DClass.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Database Layer\\DClass.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Database Layer\\DClass.cs",
+              "RelativeToolTip": "EmptyProject\\Database Layer\\DClass.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAwwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:16:22.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AiAssist.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\AiAssist.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\AiAssist.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\AiAssist.cs [Design]",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\AiAssist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T15:25:56.311Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AiAssist.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\AiAssist.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\AiAssist.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\AiAssist.cs",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\AiAssist.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T15:36:09.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPizzaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\AddPizzaForm.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\AddPizzaForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\AddPizzaForm.cs [Design]",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\AddPizzaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:17:55.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderPizzaForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\OrderPizzaForm.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\OrderPizzaForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\OrderPizzaForm.cs",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\OrderPizzaForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwGAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:16:24.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderPizzaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\OrderPizzaForm.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\OrderPizzaForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\OrderPizzaForm.cs [Design]",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\OrderPizzaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:16:22.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bill Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\bill Form.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\bill Form.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\bill Form.cs [Design]",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\bill Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:16:24.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\PaymentForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\PaymentForm.cs [Design]",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\PaymentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:19:22.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Bussiness Layer\\Owner.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Bussiness Layer\\Owner.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Bussiness Layer\\Owner.cs",
+              "RelativeToolTip": "EmptyProject\\Bussiness Layer\\Owner.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:16:22.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Bussiness Layer\\Customer.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Bussiness Layer\\Customer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Bussiness Layer\\Customer.cs",
+              "RelativeToolTip": "EmptyProject\\Bussiness Layer\\Customer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:45:38.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pizza_Details.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Bussiness Layer\\Pizza_Details.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Bussiness Layer\\Pizza_Details.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Bussiness Layer\\Pizza_Details.cs",
+              "RelativeToolTip": "EmptyProject\\Bussiness Layer\\Pizza_Details.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:46:31.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "delete Details.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\delete Details.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\delete Details.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\delete Details.cs",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\delete Details.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowF8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:16:24.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "delete Details.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\delete Details.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\delete Details.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\delete Details.cs [Design]",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\delete Details.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:16:24.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\MainForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\MainForm.cs",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\MainForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:16:21.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\MainForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\MainForm.cs [Design]",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:16:24.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\Form1.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\Form1.cs [Design]",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:16:24.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\Form1.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\Form1.cs",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\Form1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:16:46.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CardHolder.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Bussiness Layer\\CardHolder.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Bussiness Layer\\CardHolder.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Bussiness Layer\\CardHolder.cs",
+              "RelativeToolTip": "EmptyProject\\Bussiness Layer\\CardHolder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:16:24.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FeedbackForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\FeedbackForm.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\FeedbackForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\FeedbackForm.cs [Design]",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\FeedbackForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T07:31:19.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:16:24.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\CustomerForm.cs",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\CustomerForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:18:31.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PermanentCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Bussiness Layer\\PermanentCustomer.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Bussiness Layer\\PermanentCustomer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Bussiness Layer\\PermanentCustomer.cs",
+              "RelativeToolTip": "EmptyProject\\Bussiness Layer\\PermanentCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:16:24.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\PaymentForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\PaymentForm.cs",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\PaymentForm.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:16:24.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FeedbackForm.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\FeedbackForm.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\FeedbackForm.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\FeedbackForm.cs",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\FeedbackForm.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowD0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:18:53.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "bill Form.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\bill Form.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Application Layer\\bill Form.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Application Layer\\bill Form.cs",
+              "RelativeToolTip": "EmptyProject\\Application Layer\\bill Form.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAYwEoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:16:24.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Program.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\Program.cs",
+              "RelativeToolTip": "EmptyProject\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:16:24.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MyDb9DataSet6.xsc",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\MyDb9DataSet6.xsc",
+              "RelativeDocumentMoniker": "EmptyProject\\MyDb9DataSet6.xsc",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\MyDb9DataSet6.xsc",
+              "RelativeToolTip": "EmptyProject\\MyDb9DataSet6.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2025-12-19T09:05:44.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MyDb9DataSet6.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\MyDb9DataSet6.Designer.cs",
+              "RelativeDocumentMoniker": "EmptyProject\\MyDb9DataSet6.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\MyDb9DataSet6.Designer.cs",
+              "RelativeToolTip": "EmptyProject\\MyDb9DataSet6.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIEAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T09:05:37.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MyDb9DataSet6.xss",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\MyDb9DataSet6.xss",
+              "RelativeDocumentMoniker": "EmptyProject\\MyDb9DataSet6.xss",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\MyDb9DataSet6.xss",
+              "RelativeToolTip": "EmptyProject\\MyDb9DataSet6.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANkSURBVEhLvZVPSCNXHMe/k0nYWXWigmZig0pyGdBePApdJNCbWFpRi/QiVKUoetEcBHsQ2T3soIcugy6pF9FLELvi5NI/alorFNOSqaDm5OhWySSiXWNGhqivFzPNjMnulrb7gXd439/3vS\u002B833szFP4h6XS6haKoLwB8RFHUw5xOCDkHIBFCvmJZ9tecSOUvLkZJSYl9Zmamrb29/cnV1RV/fHwMVVVxe3treOx2OziOg8fjAcMw27Ozs1\u002BOjo5\u002B\u002B1YBq6urrX6//\u002BtoNMotLy8jkUjg9PQUhBDDQ9M0qqurwXEcuru70djY\u002BDIcDne\u002BMYBhGCqVSh3FYjGPIAigaRqffNyOR48\u002BQEVFpeFLJpOI/BjBixffgGVZjI2NwefzHdpMuxVgaGjICcCzu7uL6\u002BtrTE5Ooq2tzbQ5ALhcLnR2dOLx4ydIJpM4OTkBTdP1bwwQBOEVRVGw2\u002B3QdR3BYBCbm5u4vEybfOfn51hbX8Pz57Mm/d4RMQzDsCzrzNcURUmsrKwgFAoZWjqdNjXZSiAQQEtLy/2Anp6ez0VRDFp1K729vUgkElbZIBdgtxZyjIyMWCUAgNvtRiAQsMpFKdqDeDxecCiKYrW\u002BlqIB/xXvLqC2trauoaHh/ZqamvcAQJIkSJIEnucBAF1dXZAkCaIoAgA8Hg/q6\u002BvBsqyxWSGMgOnp6Wfb29u/j4\u002BPT5gthZmYmIAoivD7/daSCdMt0nUdAwMD\u002BRLOzs4AAOFwGJFIxFSbm5szzXNUVVXB7Xbj5ubmD1MPCCFQVdU0stksACCTydyr5WOz2VBZWQmv14vh4WHwPK9Go9HPir6Dvr4\u002BqwTcfRKWlpaMeXNzMziOg8PhQF1dHbxeL0pLS39eXFx82t/f/xOlKEqCEELKy8srCCEPOjo6gLsmF\u002BLw8BCDg4OAxUMI\u002BRPAd4SQoM/n\u002B\u002BXi4uJS13Vic7lcnMPh4Pb39x/s7OwYC2RZhizLyGQyAABVVSHLMuLx\u002BD1PNptFJBL5rays7FOWZb9PpVJpXdcJAFCappGNjQ0iCIKxMJ\u002BpqSnwPI9QKIT5\u002BXlrGQCwsLCAWCy21tra\u002BqG19u4e2v8FpWkaUVWV7O3tWWsAgKamJjidThwdHeHg4MBaBu5u0tbWVsEjojRN\u002B/vP/S9YX1//oVDAX81yfXlSLnVkAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-12-19T09:05:47.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MyDb9DataSet6.xsd",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\MyDb9DataSet6.xsd",
+              "RelativeDocumentMoniker": "EmptyProject\\MyDb9DataSet6.xsd",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EmptyProject\\EmptyProject\\MyDb9DataSet6.xsd",
+              "RelativeToolTip": "EmptyProject\\MyDb9DataSet6.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-12-19T09:03:49.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
